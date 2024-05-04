@@ -1,0 +1,1 @@
+const baseURL = '6627bfefb625bf088c0997b0.mockapi.io';
